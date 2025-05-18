@@ -14,7 +14,7 @@ To examine and visualize global patent trends related to polyphosphate productio
 ##  Data Source and Search Query
 
 Patent data was retrieved from [Lens.org](https://www.lens.org) on [16/05/2025] using the following query: ( ( title:"polyphosphate" OR title:"polyphosphoric acid" ) OR ( abstract:"polyphosphate" OR abstract:"polyphosphoric acid" ) ) AND ( ( title:"chemical synthesis" OR title:"chemical production" OR title:"preparation" OR title:"condensation" OR title:"dehydration" ) ) AND ( ( claim:"phosphate" OR claim:"orthophosphate" OR claim:"condensed phosphate" ) ) 
-Results=86 patent
+Results=86 patent ,
 The dataset was exported in **CSV format** for analysis in R.
 ##  Structure
 
