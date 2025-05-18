@@ -3,8 +3,8 @@
 
 This repository contains scripts, data, and figures for analyzing patent activity related to the chemical and biological synthesis of polyphosphate (polyP). It is part of the supporting material for the publication:
 
-> **Title**: [Insert your paper title]  
-> **Submitted to**: [Insert journal name]  
+> **Title**:   
+> **Submitted to**:  
 > **Author**: Yassine Dahbi  
 > **Affiliation**: Université Mohammed VI Polytechnique (UM6P)
 
