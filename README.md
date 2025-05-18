@@ -1,6 +1,4 @@
-# Polyphosphate Patent Analysis
-
-Patent analysis for chemical  synthesis of polyphosphate using R and Lens.org data. Supplement to publication: This repository contains code and data for analyzing patents related to polyphosphate (polyP) synthesis, with a focus on chemical  production methods. 
+ 
 # Polyphosphate Patent Analysis
 
 This repository contains scripts, data, and figures for analyzing patent activity related to the chemical and biological synthesis of polyphosphate (polyP). It is part of the supporting material for the publication:
