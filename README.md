@@ -2,12 +2,10 @@
 # Polyphosphate Patent Analysis
 
 This repository contains scripts, data, and figures for analyzing patent activity related to the chemical and biological synthesis of polyphosphate (polyP). It is part of the supporting material for the publication:
-
-> **Title**:   
-> **Submitted to**:  
-> **Author**: Yassine Dahbi  
-> **Affiliation**: Université Mohammed VI Polytechnique (UM6P)
-
+> Contact Information:
+Name: Dahbi yassine
+Institution: University Mohammed VI Polytechnic Email: yassine.dahbi@um6p.ma
+Role: Author
 ##  Objective
 
 To examine and visualize global patent trends related to polyphosphate production from chemical routes using data from [Lens.org](https://www.lens.org).
