@@ -47,6 +47,3 @@ install.packages(c("tidyverse", "RColorBrewer"))
 - Packages: `dplyr`, `ggplot2`, `tidytext`, `stringr`, `RColorBrewer`
 
 
-- R (≥ 4.1.0)
-- Packages: `dplyr`, `ggplot2`, `tidytext`, `stringr`, `RColorBrewer`
-
