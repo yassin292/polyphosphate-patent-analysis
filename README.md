@@ -1,7 +1,7 @@
  
 # Polyphosphate Patent Analysis
 
-This repository contains scripts, data, and figures for analyzing patent activity related to the chemical and biological synthesis of polyphosphate (polyP). It is part of the supporting material for the publication:
+This repository contains scripts, data, and figures for analyzing patent activity related to the chemical  synthesis of polyphosphate (polyP). It is part of the supporting material for the publication:
 > Contact Information:
 > 
 Name: Dahbi yassine
