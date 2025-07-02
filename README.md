@@ -1,7 +1,7 @@
  
 # Polyphosphate Patent Analysis
 
-This repository contains scripts, data, and figures for analyzing patent activity related to the chemical  synthesis of polyphosphate (polyP). It is part of the supporting material for the publication:
+This repository contains scripts, data, and figures for analyzing patent activity related to the chemical  synthesis of polyphosphate (polyP). It is part of the supporting material for the publication:Comparative Polyphosphate Accumulation in Yeast and Microalgae: Implications for Phosphorus Recovery and Environmental Biotechnology
 > Contact Information:
 > 
 Name: Dahbi yassine
