@@ -6,7 +6,8 @@ This repository contains scripts, data, and figures for analyzing patent activit
 > 
 Name: Dahbi yassine
 
-Institution: University Mohammed VI Polytechnic Email: yassine.dahbi@um6p.ma
+Institution: University Mohammed VI Polytechnic 
+Email: yassine.dahbi@um6p.ma
 
 Role: Author
 ##  Objective
